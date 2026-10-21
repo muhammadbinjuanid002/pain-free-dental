@@ -1,8 +1,12 @@
-# Pain Free Dental - website demo
+# Pain Free Dental - landing page demo
 
-Landing page demo for **Pain Free Dental**, Karachi.
+Preview design by MO Digital. Not affiliated with Pain Free Dental.
 
-- Single static page: `index.html` - Tailwind CSS compiled and inlined, no build step, no external requests, mobile first.
-- Structure follows the MO Digital clinic house template (reference: axel.clinic landing page flow).
-- Placeholders in the copy are marked with square brackets and must be filled by the clinic.
-- Preview design by MO Digital. Not affiliated with Pain Free Dental.
+- Clinic: Pain Free Dental
+- Address: Kathiawar CHS, Miran Mohammed Shah Road, Karachi
+- Phone: 0323 2211376
+- Live demo: https://pain-free-dental-demo.vercel.app
+
+This repository holds a single self-contained `index.html` (Tailwind CSS inlined, no external requests, no build step). The page is a design preview built by MO Digital for Pain Free Dental, Karachi.
+
+Booking on the page: Message us on WhatsApp.
